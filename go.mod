@@ -1,3 +1,3 @@
 module github.com/linhns/rwlocker
 
-go 1.14
+go 1.18
